@@ -48,7 +48,7 @@ function App() {
    <div className="App"> 
      <form styel= {{backgroundColor : "red" }}onSubmit={handleSubmit}> 
        <fieldset> 
-         <h2 style={{fontSize: "20px", color : 'blue', backgroundColor : 'white'}}>Sign Up</h2> 
+         <h2 style={{fontSize: "20px", color : 'blue', backgroundColor : 'white'}}>Sign Up Updated Code</h2> 
          <div className="Field"> 
            <label> 
              First name <sup>*</sup> 
